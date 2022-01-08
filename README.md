@@ -6,7 +6,7 @@ Given historical data on loans given out with information on whether or not the 
 
 The "loan_status" column contains our label.
 
-# Keras API Project Exercise - Solutions
+
 
 ## The Data
 
